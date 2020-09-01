@@ -54,8 +54,13 @@ D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\
 D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.csproj.CoreCompileInputs.cache
-D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.MvcApplicationPartsAssemblyInfo.cache
 D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.dll
 D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.pdb
 D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.genruntimeconfig.cache
+D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.csproj.CoreCompileInputs.cache
+D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.MvcApplicationPartsAssemblyInfo.cache
