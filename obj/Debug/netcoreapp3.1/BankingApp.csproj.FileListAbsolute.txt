@@ -61,6 +61,8 @@ D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\log4net.dll
+D:\ASP .net projects\BankingApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
 D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.csproj.CoreCompileInputs.cache
 D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.MvcApplicationPartsAssemblyInfo.cs
 D:\ASP .net projects\BankingApp\obj\Debug\netcoreapp3.1\BankingApp.MvcApplicationPartsAssemblyInfo.cache
